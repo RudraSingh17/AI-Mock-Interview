@@ -1,2 +1,17 @@
-# AI-Mock-Interview
-AI-powered mock interview platform that generates personalized interview questions from resumes, conducts voice-based interviews with face verification, evaluates answers using AI, and provides detailed feedback with downloadable PDF reports.
+# AI Mock Interview
+
+AI-powered mock interview platform built with React, TypeScript, Supabase, and Gemini AI.
+
+## Features
+- Resume-based interview questions
+- AI answer evaluation
+- Face verification
+- Speech recognition
+- PDF report generation
+
+## Tech Stack
+- React 19
+- TypeScript
+- Supabase
+- Gemini AI
+- Tailwind CSS
