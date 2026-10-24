@@ -17,4 +17,4 @@ AI-powered mock interview platform built with React, TypeScript, Supabase, and G
 - Tailwind CSS
 ***************************************
 
-Live Demo - https://ai-mock-interview.rudraps1705.workers.dev/
+
